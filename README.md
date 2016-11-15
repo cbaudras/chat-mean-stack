@@ -4,6 +4,7 @@ A very basic chat based on Mongo, ExpressJS, Angular 2 and Node.js
 ## What does it do ?
 
 Not much... You register, you chat. How awesome is that ?
+By default, on the logging page if you let the Password empty and you register, the password will be the username.
 
 
 
